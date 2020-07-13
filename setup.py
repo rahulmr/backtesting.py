@@ -51,7 +51,6 @@ if __name__ == '__main__':
                 'flake8',
             ],
         },
-        test_suite="backtesting.test",
         python_requires='>=3.4',
         author='Zach Lûster',
         classifiers=[
